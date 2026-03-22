@@ -1,16 +1,24 @@
-## Hi there 👋
+# G.Mord 🔥
 
-<!--
-**arkarkyawhtut/arkarkyawhtut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Building the universe, one system at a time.*
 
-Here are some ideas to get you started:
+## About
+Founder of **Mord Universe** — an AI-driven company pushing the boundaries of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Build
+- 🤖 Agentic AI systems
+- 🔐 Security research tools  
+- 🌐 Open source software
+
+## Projects
+| Project | Description | Status |
+|---|---|---|
+| **Mord AI** | Local-first agentic AI platform | 🔨 Building |
+| **Mord Universe** | AI company & ecosystem | 🚀 Active |
+
+## Connect
+- 📘 Facebook: [G.Mord](https://facebook.com)
+- 🎬 YouTube: [@G-mord](https://youtube.com/@G-mord)
+
+---
+*The universe bends to the will of its creator.*
